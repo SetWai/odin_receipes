@@ -1,1 +1,2 @@
-# odin_receipes
+# odin_recipes
+You can check out our menu!
