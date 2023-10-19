@@ -1,2 +1,2 @@
 # odin_recipes
-You can check out our menu!
+This is my first odin project about recipes!
